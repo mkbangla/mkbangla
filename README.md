@@ -5,6 +5,7 @@
 Leaving: Dhaka, Bangladesh
 ### Introduction
 Hello, I'm Mostafa Kamal. It's a pleasure to meet you all.
+
 **Background:** I hold a master's degree from City University, specializing in Finance and Banking. Currently, I serve as a computer instructor at South Point School & College.
 
 **Interests:** My passion lies in coding and web development. I find great joy in learning new programming languages and exploring the dynamic world of web development.
